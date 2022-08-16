@@ -61,6 +61,3 @@ Links de autores e conteúdos utilizados como base para o desenvolvimento e estu
 ###### https://github.com/christofersimbar/ArduinoDuckyScript
 ###### https://github.com/jcldf
 
-# Youtube
-Demonstração do script para coleta de senhas Wifi exportas via csv e enviadas para o e-mail, no vídeo linkado abaixo:
-> https://youtu.be/uzV_kIC-1_o
